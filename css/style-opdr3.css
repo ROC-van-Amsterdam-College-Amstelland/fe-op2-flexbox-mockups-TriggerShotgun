@@ -1,3 +1,15 @@
 html, body{
     height: 100%;
 }
+header{
+    background-color: green;
+    height: 96px;
+}
+main{
+    background-color: orange;
+    height: 500px;
+}
+footer{
+    background-color: purple;
+    height: 90px;
+}
